@@ -1,11 +1,11 @@
-# IT-DOS
-Iterkocze IT-DOS Kernel.
+# PrzydatnyOS
+Iterkocze PrzydatnyOS Kernel.
 
 A casual and hobbyist attempt to create an operating system Kernel. There are no long-term or short-term plans for it. <br> <br>
 DOS part in name is only a stylistic part and does not imply any association with MS-DOS or reflect its functionality. <br>
 
 # Building
-To build IT-DOS you need:
+To build PrzydatnyOS you need:
 - xorriso
 - grub
 
