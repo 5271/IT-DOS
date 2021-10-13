@@ -1,4 +1,4 @@
-/* This file is under BSD 3-Clause License and it's part of Iterkocze IT-DOS
+/* This file is under BSD 3-Clause License and it's part of Iterkocze PrzydatnyOS
 Copyright (c) 2021, Iterkocze-Company
 All rights reserved. */
 

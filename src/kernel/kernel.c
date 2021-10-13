@@ -1,4 +1,4 @@
-/* This file is under BSD 3-Clause License and it's part of Iterkocze IT-DOS
+/* This file is under BSD 3-Clause License and it's part of Iterkocze PrzydatnyOS
 Copyright (c) 2021, Iterkocze-Company
 All rights reserved. */
 
@@ -21,7 +21,7 @@ void kernel_main(void)
 {
 	terminal_initialize();
 	cmd_init();
-	kernel_writestring("Witaj w systemie IT-DOS!\n");
+	kernel_writestring("Witaj w systemie PrzydatnyOS!\n");
 	kernel_writestring("> ");
 	cmd_handler();
 }
